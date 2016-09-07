@@ -6,6 +6,7 @@ gem 'sqlite3', group: [:development, :test]
 
 # use bootstrap  library for styles
 gem 'bootstrap-sass', '~> 3.3.6'
+gem 'sass-rails', '>= 3.2'
 
 # Use postgresql as the database for production
 group :production do
